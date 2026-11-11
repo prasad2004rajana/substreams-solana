@@ -1,0 +1,8 @@
+{
+  "generator": "sol-hello-world",
+  "state": {
+    "name": "my_projectsolana_transfers",
+    "chainName": "solana-devnet",
+    "substreamsSinkChoice": "source_only"
+  }
+}
